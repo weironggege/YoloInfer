@@ -1,0 +1,3 @@
+/home/lxai/wrwork/Yolov8dir/proj/onnx/build/CMakeFiles/rebuild_cache.dir
+/home/lxai/wrwork/Yolov8dir/proj/onnx/build/CMakeFiles/edit_cache.dir
+/home/lxai/wrwork/Yolov8dir/proj/onnx/build/CMakeFiles/onte.dir
