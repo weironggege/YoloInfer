@@ -1,3 +1,0 @@
-/opt/Yolov8dir/proj/v8pose/opencv/build/CMakeFiles/onte.dir
-/opt/Yolov8dir/proj/v8pose/opencv/build/CMakeFiles/edit_cache.dir
-/opt/Yolov8dir/proj/v8pose/opencv/build/CMakeFiles/rebuild_cache.dir
