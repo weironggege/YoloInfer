@@ -1,0 +1,3 @@
+/home/lxai/wrwork/Yolov8dir/proj/v5_3out/libtorch/build/CMakeFiles/rebuild_cache.dir
+/home/lxai/wrwork/Yolov8dir/proj/v5_3out/libtorch/build/CMakeFiles/edit_cache.dir
+/home/lxai/wrwork/Yolov8dir/proj/v5_3out/libtorch/build/CMakeFiles/onte.dir
